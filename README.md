@@ -101,8 +101,6 @@ Mengatur bagaimana teks yang berlebihan akan ditampilkan jika tidak muat dalam b
 - minFontSize dan  maxFontSize (opsional):
 
 Menentukan ukuran font minimum yang dapat digunakan saat teks diperkecil atau ukuran font maksimum. Untuk minFontSize, jika ukuran font turun di bawah nilai ini, teks tidak akan lebih kecil lagi. Sedangkan, untuk maxFontSize jika teks bisa ditampilkan tanpa dipotong, ukuran font tidak akan melebihi nilai ini.
-<<<<<<< HEAD
 
 6. Kumpulkan laporan praktikum Anda berupa link repository GitHub kepada dosen!
-=======
->>>>>>> ca4d1a94ac3d70f42babe331cdbc53b4209d29fd
+
