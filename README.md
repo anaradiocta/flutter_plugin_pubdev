@@ -23,19 +23,19 @@ Buatlah sebuah project flutter baru dengan nama flutter_plugin_pubdev. Lalu jadi
 ## Langkah 2: Menambahkan Plugin
 Tambahkan plugin auto_size_text menggunakan perintah berikut di terminal
 
-<img src="langka2.jpg">
+<img src="langka2.JPG">
 
 Jika berhasil, maka akan tampil nama plugin beserta versinya di file pubspec.yaml pada bagian dependencies.
 
 ## Langkah 3: Buat file red_text_widget.dart
 Buat file baru bernama red_text_widget.dart di dalam folder lib lalu isi kode seperti berikut.
 
-<img src="langka3.jpg">
+<img src="langka3.JPG">
 
 ## Langkah 4: Tambah Widget AutoSizeText
 Masih di file red_text_widget.dart, untuk menggunakan plugin auto_size_text, ubahlah kode return Container() menjadi seperti berikut.
 
-<img src="langka4.jpg">
+<img src="langka4.JPG">
 
 
 Setelah Anda menambahkan kode di atas, Anda akan mendapatkan info error. Mengapa demikian? Jelaskan dalam laporan praktikum Anda!
@@ -43,22 +43,22 @@ Setelah Anda menambahkan kode di atas, Anda akan mendapatkan info error. Mengapa
 ## Langkah 5: Buat Variabel text dan parameter di constructor
 Tambahkan variabel text dan parameter di constructor seperti berikut.
 
-<img src="langkah5.jpg">
+<img src="langkah5.JPG">
 
 ## Langkah 6: Tambahkan widget di main.dart
 Buka file main.dart lalu tambahkan di dalam children: pada class _MyHomePageState
 
-<img src="langkah6.jpg">
+<img src="langkah6.JPG">
 
-<img src="langkah66.jpg">
+<img src="langkah66.JPG">
 
 Run aplikasi tersebut dengan tekan F5, maka hasilnya akan seperti berikut.
 
-<img src="langkah7.jpg">
+<img src="langkah7.JPG">
 
-<img src="langka7.jpg">
+<img src="langka7.JPG">
 
-<img src="langka77.jpg">
+<img src="langka77.JPG">
 
 # LAPORAN PRAKTIKUM
 
