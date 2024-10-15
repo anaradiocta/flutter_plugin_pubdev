@@ -78,7 +78,7 @@ Berdasarkan pemahaman saya, terdapat dua widget yang ditambahkan yaitu RedTextWi
 
 5. Jelaskan maksud dari tiap parameter yang ada di dalam plugin auto_size_text berdasarkan tautan pada dokumentasi ini !
 
-6. Kumpulkan laporan praktikum Anda berupa link repository GitHub kepada dosen!
+
 
 Berdasarkan dokumentasi plugin auto_size_text, berikut adalah penjelasan singkat dan jelas untuk setiap parameter yang umum digunakan:
 
@@ -101,3 +101,5 @@ Mengatur bagaimana teks yang berlebihan akan ditampilkan jika tidak muat dalam b
 - minFontSize dan  maxFontSize (opsional):
 
 Menentukan ukuran font minimum yang dapat digunakan saat teks diperkecil atau ukuran font maksimum. Untuk minFontSize, jika ukuran font turun di bawah nilai ini, teks tidak akan lebih kecil lagi. Sedangkan, untuk maxFontSize jika teks bisa ditampilkan tanpa dipotong, ukuran font tidak akan melebihi nilai ini.
+
+6. Kumpulkan laporan praktikum Anda berupa link repository GitHub kepada dosen!
